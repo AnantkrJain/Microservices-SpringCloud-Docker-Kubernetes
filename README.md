@@ -20,9 +20,9 @@ Creating an application from end to end which satisfies 15-factor methodology fo
 5. Cloud Native Apps and 15-factor Methodology
 
 6. Configuration Management :
-    A. Config Creation using Value, Environment and configurationProperties
-    B. Runtime configuration change using environment variables, JVM System Properties and Command Line Arguments.
-    C. Config read using classpath, file system and git repository.
+    A. Config Creation using Value, Environment and configurationProperties.
+    B. Externalization of Configuration using environment variables, JVM System Properties and Command Line Arguments and corresponding drawbacks.
+    C. Externalization of Configuration using classpath, file system and git repository.
     D. Config refresh using actuator, Spring Cloud Bus and Spring Cloud Config Monitor through WebHooks.
     E. Properties encryption and decryption 
     E. Deployment Using Docker Compose for demo default, QA and PROD
