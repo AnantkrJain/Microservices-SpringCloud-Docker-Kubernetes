@@ -7,25 +7,39 @@ Creating an application from end to end which satisfies 15-factor methodology fo
 1. Microservices introduction
 
 2. Microservices creation
+
     A. Accounts
+    
     B. Loans
+    
     C. Cards
     
 3. Strangler Fig Pattern
 
 4. Deployemnt, portability and scalability using Docker 
+
     A. Docker Image Generation : Dockerfile, Buildpacks, Google Jib
+    
     B. Deployment using Docker Compose
     
 5. Cloud Native Apps and 15-factor Methodology
 
 6. Configuration Management :
+
     A. Config Creation using Value, Environment and configurationProperties.
+    
     B. Externalization of Configuration using environment variables, JVM System Properties and Command Line Arguments and corresponding drawbacks.
+    
     C. Externalization of Configuration using classpath, file system and git repository.
+    
     D. Config refresh using actuator, Spring Cloud Bus and Spring Cloud Config Monitor through WebHooks.
+    
     E. Properties encryption and decryption 
-    E. Deployment Using Docker Compose for demo default, QA and PROD
+    
+    F. Deployment Using Docker Compose for demo default, QA and PROD
+
+
+
 
 
 
