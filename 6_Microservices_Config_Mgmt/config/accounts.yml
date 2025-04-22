@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Bank accounts related local APIs "
+  contactDetails:
+    name: "Anant Kumar Jain - Senior Software Developer"
+    email: "anantkr,developer@gmail.com"
+  onCallSupport:
+    - (91) 9606061612
+    - (91) 9113918920
